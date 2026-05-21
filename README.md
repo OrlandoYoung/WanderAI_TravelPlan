@@ -186,6 +186,3 @@ npm run serve
 
 ***
 
-## License
-
-本项目仅供学习和个人使用。
