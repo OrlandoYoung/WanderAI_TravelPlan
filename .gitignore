@@ -1,0 +1,67 @@
+# ============================
+# Python
+# ============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables (contains API keys)
+.env
+!.env.example
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+/staticfiles/
+/media/
+
+# Travel output data
+Travel Doc/
+
+# ============================
+# Node / Vue
+# ============================
+node_modules/
+/dist/
+.npm/
+
+# ============================
+# IDE & Editor
+# ============================
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+*.swo
+*~
+
+# ============================
+# OS
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# Logs
+# ============================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

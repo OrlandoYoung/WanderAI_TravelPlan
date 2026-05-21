@@ -1,0 +1,35 @@
+# Django 核心
+Django==5.2.4
+djangorestframework==3.16.0
+django-cors-headers==4.7.0
+djangorestframework-simplejwt==5.4.0
+
+# 密码
+bcrypt==4.3.0
+
+# AI Agent
+crewai[tools]==0.102.0
+langchain==0.3.26
+langchain-core==0.3.66
+
+# HTTP 客户端
+requests==2.32.4
+httpx==0.28.1
+openai==1.72.0
+
+# PDF 生成
+reportlab==4.2.5
+
+# 数据库
+psycopg2-binary==2.9.10
+PyMySQL==1.1.1
+
+# 环境变量
+python-dotenv==1.1.0
+
+# 图像处理
+Pillow==9.5.0
+
+# Markdown 解析
+unstructured==0.16.22
+beautifulsoup4==4.13.4
